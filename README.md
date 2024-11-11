@@ -1,10 +1,11 @@
 <h1 align="center">👋 Hi, I’m Arpita Nayak</h1>
 <h3 align="center">👀 I’m interested in PythonFullStackDeveloper</h3>
-- 🌱 I’m currently learning Django
-- 💞️ I’m looking to collaborate on Python Web Development project using Django & React
-- 📫 How to reach me nayakarpita200@gmail.com
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: My first computer was a Commodore 64
+
+<h2 align="center">🌱 I’m currently learning Django</h2>
+<h4 align="center">💞️ I’m looking to collaborate on Python Web Development project using Django & React</h4>
+<h5 align="center">📫 How to reach me nayakarpita200@gmail.com</h5>
+<h6 align="center">😄 Pronouns: She/Her</h6>
+<h7 align="center">⚡ Fun fact: My first computer was a Commodore 64</h7>
 
 <!---
 nayak-arpita/nayak-arpita is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
