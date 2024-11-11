@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif)
 <h1 align="center">👋 Hi, I’m Arpita Nayak</h1>
-<h3 align="center">👀 I’m interested in-------- PythonFullStackDeveloper--------</h3>
+<h3 align="center">👀 I’m interested in PythonFullStackDeveloper</h3>
 <img align='center' alt='coding img' width='50%' src='https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayak-arpitalabel=Profile%20views&color=0e75b6&style=flat" alt="nayak-arpita" /> </p>
