@@ -1,6 +1,6 @@
 ![MasterHead](https://miro.medium.com/v2/resize:fit:679/1*yw0TnheAGN-LPneDaTlaxw.gif)
 <h1 align="center">👋 Hi, I’m Arpita Nayak</h1>
-<h3 align="center">👀 I’m interested in PythonFullStackDeveloper</h3>
+<h3 align="center">👀 I’m an experienced Python Full Stack Developer passionate about building scalable web applications, developing efficient backend solutions, and creating responsive, user-friendly interfaces</h3>
 <img align='center' alt='coding img' width='50%' src='https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif'>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nayak-arpitalabel=Profile%20views&color=0e75b6&style=flat" alt="nayak-arpita" /> </p>
@@ -8,7 +8,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nayak-arpita" alt="nayak-arpita" /></a> </p>
 
 
-<h2 align="center">🌱 I’m currently learning Django</h2>
+<h2 align="center">🌱 I have acquired proficiency in Django and Python, with hands-on experience in developing scalable, efficient, and dynamic web applications</h2>
 <h4 align="center">💞️ I’m looking to collaborate on Python Web Development project using Django & React</h4>
 <h5 align="center">📫 How to reach me nayakarpita200@gmail.com</h5>
 <h6 align="center">😄 Pronouns: She/Her</h6>
@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 
 
 
-- 💬 Ask me about *Python , SQL,Django*
+- 💬 Ask me about *Python SQL Django*
 
 
 <h3 align="left">Connect with me:</h3>
